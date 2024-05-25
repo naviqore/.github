@@ -11,17 +11,16 @@ The motivation behind our thesis lies in addressing several key challenges:
 
 1. **Open Data**: In recent years, a growing number of public transit agencies have started to publish their schedules
    in the open standard GTFS (General Transit Feed Specification) as open data [1]. Maintaining a public transit
-   schedule is
-   a resource-intensive task, making it previously inaccessible for small companies or private individuals to access or
-   generate such datasets. Working with these large and complex datasets poses interesting challenges concerning
-   efficient data structures and processing approaches.
+   schedule is a resource-intensive task, making it previously inaccessible for small companies or private individuals
+   to access or generate such datasets. Working with these large and complex datasets poses interesting challenges
+   concerning efficient data structures and processing approaches.
 
-2. **Complexity**: Routing in public transit systems is inherently complex due to the time-dependent nature of the
+3. **Complexity**: Routing in public transit systems is inherently complex due to the time-dependent nature of the
    network. The schedules of public transit services are not static; they vary based on time of day, day of the week,
    and other factors. This time-dependency adds a layer of complexity to the routing process, making it a challenging
    problem to solve efficiently.
 
-3. **Performance**: Traditional graph-based transit routing algorithms often struggle with large-scale networks,
+4. **Performance**: Traditional graph-based transit routing algorithms often struggle with large-scale networks,
    resulting in time-consuming requests. The RAPTOR (Round-based Public Transit Routing) algorithm, known for its speed
    and accuracy, offers a promising solution [2].
 
