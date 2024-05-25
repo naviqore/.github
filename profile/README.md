@@ -34,7 +34,7 @@ to address these challenges effectively and learn from mistakes during the softw
 
 Our approach involves the following key components:
 
-1. **Data Source**: We utilize public transit schedules in the General Transit Feed Specification (GTFS) format as data
+1. **Data Source**: We use public transit schedules in the General Transit Feed Specification (GTFS) format as data
    source. GTFS provides a standardized format for transit schedules, including static information (such as stop times,
    routes, and trips) and eventually real-time updates.
 
