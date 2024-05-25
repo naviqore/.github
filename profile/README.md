@@ -47,3 +47,11 @@ Our approach involves the following key components:
 5. **Web Application**: Around the core routing functionality, we develop a simple web application. The frontend will
    allow users to explore schedules, query connections, and assess accessibility. The backend continuously updates the
    static schedule.
+
+## References
+
+[1] General Transit Feed Specification. (n.d.). Retrieved May 25, 2024, from [https://gtfs.org/](https://gtfs.org/)
+
+[2] Delling, D., Pajor, T., & Werneck, R. F. (2012). Round-Based Public Transit Routing. In *2012 Proceedings of the
+Meeting on Algorithm Engineering and Experiments (ALENEX)* (pp. 130-140).
+SIAM. [https://doi.org/10.1137/1.9781611972924.13](https://epubs.siam.org/doi/abs/10.1137/1.9781611972924.13)
