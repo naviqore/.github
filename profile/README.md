@@ -34,17 +34,17 @@ to address these challenges effectively and learn from mistakes during the softw
 
 Our approach involves the following key components:
 
-1. **Data Source**: We utilize the General Transit Feed Specification (GTFS) data for Switzerland. GTFS provides a
-   standardized format for transit schedules, including static information (such as stop times, routes, and trips) and
-   eventually real-time updates.
+1. **Data Source**: We utilize public transit schedules in the General Transit Feed Specification (GTFS) format as data
+   source. GTFS provides a standardized format for transit schedules, including static information (such as stop times,
+   routes, and trips) and eventually real-time updates.
 
-2. **RAPTOR Algorithm**: The RAPTOR algorithm, based on time-expanded networks, efficiently computes transit routes by
-   considering time-dependent constraints. We will adapt and optimize this algorithm for Swiss transit networks.
+3. **RAPTOR Algorithm**: The RAPTOR algorithm, based on time-expanded networks, efficiently computes transit routes by
+   considering time-dependent constraints.
 
-3. **Public Transit Service**: This integration layer adds abstraction between the publicly visible interface and the
+4. **Public Transit Service**: This integration layer adds abstraction between the publicly visible interface and the
    core components, such as the routing algorithm and schedule data source. This will allow for exchanging those
    components without interfering with any outside dependencies on the service.
 
-4. **Web Application**: Around the core routing functionality, we develop a simple web application. The frontend will
+5. **Web Application**: Around the core routing functionality, we develop a simple web application. The frontend will
    allow users to explore schedules, query connections, and assess accessibility. The backend continuously updates the
    static schedule.
