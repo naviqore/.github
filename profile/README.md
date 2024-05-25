@@ -1,4 +1,4 @@
-## Naviqore Public Transit Service
+## Naviqore
 
 Public transportation systems play a crucial role in urban mobility, connecting millions of people daily. Efficient
 routing algorithms are essential for optimizing transit journeys, minimizing travel time, and enhancing user experience.
