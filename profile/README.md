@@ -2,8 +2,10 @@
 
 Public transportation systems play a crucial role in urban mobility, connecting millions of people daily. Efficient
 routing algorithms are essential for optimizing transit journeys, minimizing travel time, and enhancing user experience.
-In this Master thesis, we delve into the challenges of public transit routing and explore innovative approaches to
+In this Master's thesis, we delve into the challenges of public transit routing and explore innovative approaches to
 address them.
+
+[Thesis](../docs/thesis_mas_se_raptor.pdf) | [Presentation](../docs/slides_mas_se_raptor.pdf)
 
 ## Motivation
 
