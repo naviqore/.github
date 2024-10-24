@@ -5,7 +5,7 @@ routing algorithms are essential for optimizing transit journeys, minimizing tra
 In this Master's thesis, we delve into the challenges of public transit routing and explore innovative approaches to
 address them.
 
-[Thesis](../docs/thesis_mas_se_raptor.pdf) | [Presentation](../docs/slides_mas_se_raptor.pdf)
+[Thesis](../docs/thesis_mas_se_raptor.pdf) | [Slides](../docs/slides_mas_se_raptor.pdf)
 
 ## Motivation
 
